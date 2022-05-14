@@ -19,5 +19,13 @@
     "dotenv": "^16.0.0"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atsshadow/big-chungus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/atsshadow/big-chungus/issues"
+  },
+  "homepage": "https://github.com/atsshadow/big-chungus#readme",
   "description": ""
 }
